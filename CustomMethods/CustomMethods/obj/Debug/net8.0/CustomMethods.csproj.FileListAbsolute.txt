@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CustomMethods\CustomMethods\bin\Debug\net8.0\CustomMethods.exe
+C:\Users\User\source\repos\CustomMethods\CustomMethods\bin\Debug\net8.0\CustomMethods.deps.json
+C:\Users\User\source\repos\CustomMethods\CustomMethods\bin\Debug\net8.0\CustomMethods.runtimeconfig.json
+C:\Users\User\source\repos\CustomMethods\CustomMethods\bin\Debug\net8.0\CustomMethods.dll
+C:\Users\User\source\repos\CustomMethods\CustomMethods\bin\Debug\net8.0\CustomMethods.pdb
+C:\Users\User\source\repos\CustomMethods\CustomMethods\obj\Debug\net8.0\CustomMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CustomMethods\CustomMethods\obj\Debug\net8.0\CustomMethods.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CustomMethods\CustomMethods\obj\Debug\net8.0\CustomMethods.AssemblyInfo.cs
+C:\Users\User\source\repos\CustomMethods\CustomMethods\obj\Debug\net8.0\CustomMethods.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CustomMethods\CustomMethods\obj\Debug\net8.0\CustomMethods.dll
+C:\Users\User\source\repos\CustomMethods\CustomMethods\obj\Debug\net8.0\refint\CustomMethods.dll
+C:\Users\User\source\repos\CustomMethods\CustomMethods\obj\Debug\net8.0\CustomMethods.pdb
+C:\Users\User\source\repos\CustomMethods\CustomMethods\obj\Debug\net8.0\CustomMethods.genruntimeconfig.cache
+C:\Users\User\source\repos\CustomMethods\CustomMethods\obj\Debug\net8.0\ref\CustomMethods.dll
