@@ -34,19 +34,25 @@
             int currentIndex = 0;
             string temp = string.Empty;
 
-            foreach (char c in input)
-            {
-                if (c == separator)
-                {
-                    result[currentIndex] = temp;
-                    currentIndex++;
-                    temp = string.Empty;
-                }
-                else
-                {
-                    temp += c;
-                }
-            }
+             foreach (char c in input)
+             {
+                 if (c == separator)
+                 {
+                     if (temp.Length != 0)
+                     {
+                         result[currentIndex] = temp;
+                         currentIndex++;
+                         temp = string.Empty;
+                     }
+                                  
+                 }
+                 else
+                 {
+                     temp += c;
+                
+            
+                 }
+             }
 
             // Sonuncu parçanı əlavə edirik:
             result[currentIndex] = temp;
