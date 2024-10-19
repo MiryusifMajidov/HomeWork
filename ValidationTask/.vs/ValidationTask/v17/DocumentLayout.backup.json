@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ValidationTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A415ADF9-0C1D-4BA8-8C26-691F563CA985}|ValidationTask\\ValidationTask.csproj|c:\\users\\user\\source\\repos\\validationtask\\validationtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A415ADF9-0C1D-4BA8-8C26-691F563CA985}|ValidationTask\\ValidationTask.csproj|solutionrelative:validationtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A415ADF9-0C1D-4BA8-8C26-691F563CA985}|ValidationTask\\ValidationTask.csproj|c:\\users\\user\\source\\repos\\validationtask\\validationtask\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A415ADF9-0C1D-4BA8-8C26-691F563CA985}|ValidationTask\\ValidationTask.csproj|solutionrelative:validationtask\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD636C7-9F7B-4DBA-8107-54ED25D797AB}|ValidationLibrary\\ValidationLibrary.csproj|c:\\users\\user\\source\\repos\\validationtask\\validationlibrary\\customvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD636C7-9F7B-4DBA-8107-54ED25D797AB}|ValidationLibrary\\ValidationLibrary.csproj|solutionrelative:validationlibrary\\customvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomValidation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ValidationTask\\ValidationLibrary\\CustomValidation.cs",
+              "RelativeDocumentMoniker": "ValidationLibrary\\CustomValidation.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ValidationTask\\ValidationLibrary\\CustomValidation.cs",
+              "RelativeToolTip": "ValidationLibrary\\CustomValidation.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwBkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:59:20.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ValidationTask\\ValidationTask\\Person.cs",
+              "RelativeDocumentMoniker": "ValidationTask\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ValidationTask\\ValidationTask\\Person.cs*",
+              "RelativeToolTip": "ValidationTask\\Person.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:36:18.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ValidationTask\\ValidationTask\\Program.cs",
+              "RelativeDocumentMoniker": "ValidationTask\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ValidationTask\\ValidationTask\\Program.cs*",
+              "RelativeToolTip": "ValidationTask\\Program.cs*",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwEUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:33:38.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
