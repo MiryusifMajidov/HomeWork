@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LibraryManagementSystemTask\LibraryManagementSystemTask\bin\Debug\net8.0\LibraryManagementSystemTask.exe
+C:\Users\User\source\repos\LibraryManagementSystemTask\LibraryManagementSystemTask\bin\Debug\net8.0\LibraryManagementSystemTask.deps.json
+C:\Users\User\source\repos\LibraryManagementSystemTask\LibraryManagementSystemTask\bin\Debug\net8.0\LibraryManagementSystemTask.runtimeconfig.json
+C:\Users\User\source\repos\LibraryManagementSystemTask\LibraryManagementSystemTask\bin\Debug\net8.0\LibraryManagementSystemTask.dll
+C:\Users\User\source\repos\LibraryManagementSystemTask\LibraryManagementSystemTask\bin\Debug\net8.0\LibraryManagementSystemTask.pdb
+C:\Users\User\source\repos\LibraryManagementSystemTask\LibraryManagementSystemTask\obj\Debug\net8.0\LibraryManagementSystemTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LibraryManagementSystemTask\LibraryManagementSystemTask\obj\Debug\net8.0\LibraryManagementSystemTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LibraryManagementSystemTask\LibraryManagementSystemTask\obj\Debug\net8.0\LibraryManagementSystemTask.AssemblyInfo.cs
+C:\Users\User\source\repos\LibraryManagementSystemTask\LibraryManagementSystemTask\obj\Debug\net8.0\LibraryManagementSystemTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LibraryManagementSystemTask\LibraryManagementSystemTask\obj\Debug\net8.0\LibraryManagementSystemTask.dll
+C:\Users\User\source\repos\LibraryManagementSystemTask\LibraryManagementSystemTask\obj\Debug\net8.0\refint\LibraryManagementSystemTask.dll
+C:\Users\User\source\repos\LibraryManagementSystemTask\LibraryManagementSystemTask\obj\Debug\net8.0\LibraryManagementSystemTask.pdb
+C:\Users\User\source\repos\LibraryManagementSystemTask\LibraryManagementSystemTask\obj\Debug\net8.0\LibraryManagementSystemTask.genruntimeconfig.cache
+C:\Users\User\source\repos\LibraryManagementSystemTask\LibraryManagementSystemTask\obj\Debug\net8.0\ref\LibraryManagementSystemTask.dll

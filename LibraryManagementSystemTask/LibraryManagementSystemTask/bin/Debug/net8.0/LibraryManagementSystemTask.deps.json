@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LibraryManagementSystemTask/1.0.0": {
+        "runtime": {
+          "LibraryManagementSystemTask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryManagementSystemTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
