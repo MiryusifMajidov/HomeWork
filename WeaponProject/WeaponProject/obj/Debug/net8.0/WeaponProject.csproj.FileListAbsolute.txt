@@ -12,3 +12,18 @@ C:\Users\User\source\repos\WeaponProject\WeaponProject\obj\Debug\net8.0\refint\W
 C:\Users\User\source\repos\WeaponProject\WeaponProject\obj\Debug\net8.0\WeaponProject.pdb
 C:\Users\User\source\repos\WeaponProject\WeaponProject\obj\Debug\net8.0\WeaponProject.genruntimeconfig.cache
 C:\Users\User\source\repos\WeaponProject\WeaponProject\obj\Debug\net8.0\ref\WeaponProject.dll
+C:\Users\II Novbe\Desktop\TaksMiri\HomeWork\WeaponProject\WeaponProject\bin\Debug\net8.0\WeaponProject.exe
+C:\Users\II Novbe\Desktop\TaksMiri\HomeWork\WeaponProject\WeaponProject\bin\Debug\net8.0\WeaponProject.deps.json
+C:\Users\II Novbe\Desktop\TaksMiri\HomeWork\WeaponProject\WeaponProject\bin\Debug\net8.0\WeaponProject.runtimeconfig.json
+C:\Users\II Novbe\Desktop\TaksMiri\HomeWork\WeaponProject\WeaponProject\bin\Debug\net8.0\WeaponProject.dll
+C:\Users\II Novbe\Desktop\TaksMiri\HomeWork\WeaponProject\WeaponProject\bin\Debug\net8.0\WeaponProject.pdb
+C:\Users\II Novbe\Desktop\TaksMiri\HomeWork\WeaponProject\WeaponProject\obj\Debug\net8.0\WeaponProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\TaksMiri\HomeWork\WeaponProject\WeaponProject\obj\Debug\net8.0\WeaponProject.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\TaksMiri\HomeWork\WeaponProject\WeaponProject\obj\Debug\net8.0\WeaponProject.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\TaksMiri\HomeWork\WeaponProject\WeaponProject\obj\Debug\net8.0\WeaponProject.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\TaksMiri\HomeWork\WeaponProject\WeaponProject\obj\Debug\net8.0\WeaponProject.sourcelink.json
+C:\Users\II Novbe\Desktop\TaksMiri\HomeWork\WeaponProject\WeaponProject\obj\Debug\net8.0\WeaponProject.dll
+C:\Users\II Novbe\Desktop\TaksMiri\HomeWork\WeaponProject\WeaponProject\obj\Debug\net8.0\refint\WeaponProject.dll
+C:\Users\II Novbe\Desktop\TaksMiri\HomeWork\WeaponProject\WeaponProject\obj\Debug\net8.0\WeaponProject.pdb
+C:\Users\II Novbe\Desktop\TaksMiri\HomeWork\WeaponProject\WeaponProject\obj\Debug\net8.0\WeaponProject.genruntimeconfig.cache
+C:\Users\II Novbe\Desktop\TaksMiri\HomeWork\WeaponProject\WeaponProject\obj\Debug\net8.0\ref\WeaponProject.dll
