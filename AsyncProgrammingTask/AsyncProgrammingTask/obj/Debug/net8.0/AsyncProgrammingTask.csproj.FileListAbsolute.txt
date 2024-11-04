@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\bin\Debug\net8.0\AsyncProgrammingTask.exe
+C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\bin\Debug\net8.0\AsyncProgrammingTask.deps.json
+C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\bin\Debug\net8.0\AsyncProgrammingTask.runtimeconfig.json
+C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\bin\Debug\net8.0\AsyncProgrammingTask.dll
+C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\bin\Debug\net8.0\AsyncProgrammingTask.pdb
+C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\obj\Debug\net8.0\AsyncProgrammingTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\obj\Debug\net8.0\AsyncProgrammingTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\obj\Debug\net8.0\AsyncProgrammingTask.AssemblyInfo.cs
+C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\obj\Debug\net8.0\AsyncProgrammingTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\obj\Debug\net8.0\AsyncProgrammingTask.dll
+C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\obj\Debug\net8.0\refint\AsyncProgrammingTask.dll
+C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\obj\Debug\net8.0\AsyncProgrammingTask.pdb
+C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\obj\Debug\net8.0\AsyncProgrammingTask.genruntimeconfig.cache
+C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\obj\Debug\net8.0\ref\AsyncProgrammingTask.dll
