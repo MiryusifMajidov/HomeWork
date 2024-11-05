@@ -12,3 +12,6 @@ C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\obj\Debug\n
 C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\obj\Debug\net8.0\AsyncProgrammingTask.pdb
 C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\obj\Debug\net8.0\AsyncProgrammingTask.genruntimeconfig.cache
 C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\obj\Debug\net8.0\ref\AsyncProgrammingTask.dll
+C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\obj\Debug\net8.0\AsyncProgrammingTask.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AsyncProgrammingTask\AsyncProgrammingTask\obj\Debug\net8.0\AsyncPro.D2AEA1A0.Up2Date

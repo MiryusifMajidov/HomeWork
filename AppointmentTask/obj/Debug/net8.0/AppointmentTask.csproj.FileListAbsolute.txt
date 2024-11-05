@@ -13,3 +13,11 @@ C:\Users\II Novbe\source\repos\AppointmentTask\obj\Debug\net8.0\refint\Appointme
 C:\Users\II Novbe\source\repos\AppointmentTask\obj\Debug\net8.0\AppointmentTask.pdb
 C:\Users\II Novbe\source\repos\AppointmentTask\obj\Debug\net8.0\AppointmentTask.genruntimeconfig.cache
 C:\Users\II Novbe\source\repos\AppointmentTask\obj\Debug\net8.0\ref\AppointmentTask.dll
+C:\Users\User\Desktop\HomeTaskCode\AppointmentTask\obj\Debug\net8.0\AppointmentTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HomeTaskCode\AppointmentTask\obj\Debug\net8.0\AppointmentTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeTaskCode\AppointmentTask\obj\Debug\net8.0\AppointmentTask.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeTaskCode\AppointmentTask\obj\Debug\net8.0\AppointmentTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeTaskCode\AppointmentTask\obj\Debug\net8.0\AppointmentTask.sourcelink.json
+C:\Users\User\Desktop\HomeTaskCode\AppointmentTask\obj\Debug\net8.0\AppointmentTask.dll
+C:\Users\User\Desktop\HomeTaskCode\AppointmentTask\obj\Debug\net8.0\refint\AppointmentTask.dll
+C:\Users\User\Desktop\HomeTaskCode\AppointmentTask\obj\Debug\net8.0\AppointmentTask.pdb

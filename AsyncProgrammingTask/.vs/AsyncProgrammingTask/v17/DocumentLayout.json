@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{603D6175-13BD-41AC-976D-677B55907998}|AsyncProgrammingTask\\AsyncProgrammingTask.csproj|c:\\users\\user\\source\\repos\\asyncprogrammingtask\\asyncprogrammingtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{603D6175-13BD-41AC-976D-677B55907998}|AsyncProgrammingTask\\AsyncProgrammingTask.csproj|solutionrelative:asyncprogrammingtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603D6175-13BD-41AC-976D-677B55907998}|AsyncProgrammingTask\\AsyncProgrammingTask.csproj|c:\\users\\user\\source\\repos\\asyncprogrammingtask\\asyncprogrammingtask\\data\\jsondata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{603D6175-13BD-41AC-976D-677B55907998}|AsyncProgrammingTask\\AsyncProgrammingTask.csproj|solutionrelative:asyncprogrammingtask\\data\\jsondata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603D6175-13BD-41AC-976D-677B55907998}|AsyncProgrammingTask\\AsyncProgrammingTask.csproj|c:\\users\\user\\source\\repos\\asyncprogrammingtask\\asyncprogrammingtask\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603D6175-13BD-41AC-976D-677B55907998}|AsyncProgrammingTask\\AsyncProgrammingTask.csproj|solutionrelative:asyncprogrammingtask\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jsonData.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AsyncProgrammingTask\\AsyncProgrammingTask\\Data\\jsonData.json",
+              "RelativeDocumentMoniker": "AsyncProgrammingTask\\Data\\jsonData.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AsyncProgrammingTask\\AsyncProgrammingTask\\Data\\jsonData.json",
+              "RelativeToolTip": "AsyncProgrammingTask\\Data\\jsonData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T21:30:31.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AsyncProgrammingTask\\AsyncProgrammingTask\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "AsyncProgrammingTask\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AsyncProgrammingTask\\AsyncProgrammingTask\\Models\\Post.cs",
+              "RelativeToolTip": "AsyncProgrammingTask\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:52:38.996Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "AsyncProgrammingTask\\Program.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\AsyncProgrammingTask\\AsyncProgrammingTask\\Program.cs*",
               "RelativeToolTip": "AsyncProgrammingTask\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvzAAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T20:41:14.766Z",
               "EditorCaption": ""

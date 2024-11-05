@@ -19,5 +19,6 @@ namespace AppointmentTask.AppointmentService
         public void GetWeeklyAppointments();
         public void GetTodaysAppointments();
         public void GetAllContinuingAppointments();
+        public void GetIntervalAppointments(int startDate, int endDate);
     }
 }

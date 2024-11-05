@@ -69,7 +69,24 @@ namespace AppointmentTask.AppointmentService
 
         public void GetWeeklyAppointments()
         {
-            throw new NotImplementedException();
+            foreach (var item in Appointments)
+            {
+                if (item.StartDate >= DateTime.Now.AddDays(-7)
+                {
+                    Console.WriteLine(item);
+                }
+            }
+        }
+
+        public void GetIntervalAppointments(int startDate, int endDate)
+        {
+            foreach (var item in Appointments)
+            {
+                if (item.StartDate >= DateTime.Now.AddDays(startDate) && item.StartDate <= DateTime.Now.AddDays(endDate))
+                {
+                    Console.WriteLine(item);
+                }
+            }
         }
     }
 }
