@@ -35,12 +35,14 @@ namespace MVCTask1._1.Controllers
             //{
             //    teacher.Name = "test";
             //}
-            AppDbContext _context1 = new();
+           
+                _context.Teachers.Add(teacher);
+                _context.SaveChanges();
+                return RedirectToAction("Index");
+          
 
-            _context1.Teachers.Add(teacher);
-            _context1.SaveChanges();
-            
-            
+
+
             return View(teacher);
         }
     }
