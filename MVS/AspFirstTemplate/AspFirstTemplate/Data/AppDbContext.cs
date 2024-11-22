@@ -19,6 +19,7 @@ namespace AspFirstTemplate.Data
         }
 
         public DbSet<OurTeam> OurTeams { get; set; }
+        public DbSet<Work> Works { get; set; }
         public DbSet<ResponseMessage> ResponseMessages { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
