@@ -7,7 +7,8 @@
         public string Description { get; set; }
         public string BigDescription { get; set; }
         public string Image { get; set; }
-        public string Cat { get; set; }
+        public int ServiceId { get; set; }
+        public Service Service { get; set; }
 
     }
 }

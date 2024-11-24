@@ -1,6 +1,7 @@
 ﻿using AspFirstTemplate.Data;
 using AspFirstTemplate.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace AspFirstTemplate.Areas.Admin.Controllers
 {
@@ -22,17 +23,16 @@ namespace AspFirstTemplate.Areas.Admin.Controllers
         [HttpGet]
         public IActionResult Create()
         {
-           
+            ViewBag.Service = _context.Services
+                 .Select(t => new { t.Id, t.Title })
+                 .ToList();
             return View();
         }
 
         [HttpPost]
         public IActionResult Create(Work work)
         {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest("Sjsjsjsj");
-            }
+           
 
             _context.Works.Add(work);   
             _context.SaveChanges();
@@ -40,10 +40,31 @@ namespace AspFirstTemplate.Areas.Admin.Controllers
            
         }
 
+        [HttpGet]
+        public IActionResult Edit(int? id) 
+        {
+            ViewBag.Service = _context.Services
+                 .Select(t => new { t.Id, t.Title })
+                 .ToList();
+           
+            Work? Work = _context.Works.Find(id);
+            return View(nameof(Create), Work);
+        }
 
-        public IActionResult Edit(int id) 
+        [HttpPost]
+        public IActionResult Edit(Work work) 
         { 
-            return View();
+            Work? UpdateWork = _context.Works.AsNoTracking().FirstOrDefault(x=>x.Id == work.Id);
+
+            if (UpdateWork is null)
+            {
+                return NotFound("Bele bir data yoxdur");  
+            }
+
+            _context.Works.Update(work);
+            _context.SaveChanges();
+
+            return RedirectToAction(nameof(Index));
         }
 
         public IActionResult Delete(int id) 
