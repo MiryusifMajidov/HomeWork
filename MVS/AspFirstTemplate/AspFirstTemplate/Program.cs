@@ -1,4 +1,6 @@
 using AspFirstTemplate.Data;
+using AspFirstTemplate.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace AspFirstTemplate
@@ -10,6 +12,12 @@ namespace AspFirstTemplate
             var builder = WebApplication.CreateBuilder(args);
 
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
+            {
+                opt.Password.RequiredLength = 3;
+            }).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>();
+
             builder.Services.AddDbContext<AppDbContext>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 

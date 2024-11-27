@@ -1,27 +1,19 @@
 ﻿using AspFirstTemplate.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+
 using System.Reflection.Metadata;
 
 namespace AspFirstTemplate.Data
 {
-    public class AppDbContext:DbContext
+    public class AppDbContext:IdentityDbContext
     {
-
-        private readonly DbContextOptions _options;
-
-        public AppDbContext()
-        {
-
-        }
-
-        public AppDbContext(DbContextOptions<AppDbContext> options):base(options) 
-        {
-           
-        }
+        public AppDbContext(DbContextOptions options) : base(options) { }
 
         public DbSet<OurTeam> OurTeams { get; set; }
         public DbSet<Work> Works { get; set; }
         public DbSet<Service> Services { get; set; }
+        public DbSet<AppUser> AppUsers { get; set; }
         public DbSet<ResponseMessage> ResponseMessages { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

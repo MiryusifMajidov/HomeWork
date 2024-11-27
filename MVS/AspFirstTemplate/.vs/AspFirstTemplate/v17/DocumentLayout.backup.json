@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Migrations\\20241127025755_editUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AspFirstTemplate\\Migrations\\20241127025755_editUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\areas\\admin\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\areas\\admin\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\areas\\admin\\views\\work\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\areas\\admin\\views\\work\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\dtos\\userdtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\dtos\\userdtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\areas\\admin\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\areas\\admin\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\aspfirsttemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\aspfirsttemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,68 +43,40 @@
       "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\areas\\admin\\views\\shared\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\areas\\admin\\views\\shared\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Migrations\\20241124205436_serviceIdAddedCatDeleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AspFirstTemplate\\Migrations\\20241124205436_serviceIdAddedCatDeleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\aspfirsttemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\aspfirsttemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\areas\\admin\\views\\shared\\tobar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\areas\\admin\\views\\shared\\tobar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\areas\\admin\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\areas\\admin\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\areas\\admin\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\areas\\admin\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Migrations\\20241127010109_addUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AspFirstTemplate\\Migrations\\20241127010109_addUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\areas\\admin\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\areas\\admin\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|c:\\users\\user\\source\\repos\\aspfirsttemplate\\aspfirsttemplate\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A856E764-BE43-4891-8C14-5FC88609DD88}|AspFirstTemplate\\AspFirstTemplate.csproj|solutionrelative:aspfirsttemplate\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,62 +86,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AspFirstTemplate\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20241127025755_editUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Migrations\\20241127025755_editUserTable.cs",
+              "RelativeDocumentMoniker": "AspFirstTemplate\\Migrations\\20241127025755_editUserTable.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Migrations\\20241127025755_editUserTable.cs",
+              "RelativeToolTip": "AspFirstTemplate\\Migrations\\20241127025755_editUserTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:57:55.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\DTOs\\UserDTOs\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "AspFirstTemplate\\DTOs\\UserDTOs\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\DTOs\\UserDTOs\\CreateUserDto.cs",
+              "RelativeToolTip": "AspFirstTemplate\\DTOs\\UserDTOs\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:39:51.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Views\\Shared\\footer.cshtml",
+              "RelativeDocumentMoniker": "AspFirstTemplate\\Views\\Shared\\footer.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Views\\Shared\\footer.cshtml",
+              "RelativeToolTip": "AspFirstTemplate\\Views\\Shared\\footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T20:58:34.091Z",
+              "WhenOpened": "2024-11-27T01:23:39.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "20241124205436_serviceIdAddedCatDeleted.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Migrations\\20241124205436_serviceIdAddedCatDeleted.cs",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Migrations\\20241124205436_serviceIdAddedCatDeleted.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Migrations\\20241124205436_serviceIdAddedCatDeleted.cs",
-              "RelativeToolTip": "AspFirstTemplate\\Migrations\\20241124205436_serviceIdAddedCatDeleted.cs",
+              "Title": "header.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Views\\Shared\\header.cshtml",
+              "RelativeDocumentMoniker": "AspFirstTemplate\\Views\\Shared\\header.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Views\\Shared\\header.cshtml",
+              "RelativeToolTip": "AspFirstTemplate\\Views\\Shared\\header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T01:23:13.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AspFirstTemplate\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AspFirstTemplate\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T20:54:37.149Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T01:23:11.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspFirstTemplate\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "AspFirstTemplate\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T01:16:47.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "AspFirstTemplate\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "AspFirstTemplate\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "AspFirstTemplate\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T18:30:20.011Z",
+              "WhenOpened": "2024-11-27T01:13:11.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AspFirstTemplate\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "AspFirstTemplate\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T01:08:17.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AspFirstTemplate\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AspFirstTemplate\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:07:54.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "WorkController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Controllers\\WorkController.cs",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Controllers\\WorkController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Controllers\\WorkController.cs",
-              "RelativeToolTip": "AspFirstTemplate\\Controllers\\WorkController.cs",
+              "Title": "20241127010109_addUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Migrations\\20241127010109_addUser.cs",
+              "RelativeDocumentMoniker": "AspFirstTemplate\\Migrations\\20241127010109_addUser.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Migrations\\20241127010109_addUser.cs",
+              "RelativeToolTip": "AspFirstTemplate\\Migrations\\20241127010109_addUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T18:21:32.354Z"
+              "WhenOpened": "2024-11-27T01:01:09.917Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "AspFirstTemplate.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\AspFirstTemplate.csproj",
               "RelativeDocumentMoniker": "AspFirstTemplate\\AspFirstTemplate.csproj",
@@ -165,233 +228,107 @@
               "RelativeToolTip": "AspFirstTemplate\\AspFirstTemplate.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-24T18:18:27.715Z",
+              "WhenOpened": "2024-11-27T00:22:13.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Work\\Create.cshtml",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Areas\\Admin\\Views\\Work\\Create.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Work\\Create.cshtml",
-              "RelativeToolTip": "AspFirstTemplate\\Areas\\Admin\\Views\\Work\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAACKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T16:23:53.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Service\\Create.cshtml",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Areas\\Admin\\Views\\Service\\Create.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Service\\Create.cshtml",
-              "RelativeToolTip": "AspFirstTemplate\\Areas\\Admin\\Views\\Service\\Create.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T16:23:51.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WorkController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Controllers\\WorkController.cs",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Areas\\Admin\\Controllers\\WorkController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Controllers\\WorkController.cs",
-              "RelativeToolTip": "AspFirstTemplate\\Areas\\Admin\\Controllers\\WorkController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAcwEQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "AspFirstTemplate\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Models\\AppUser.cs",
+              "RelativeToolTip": "AspFirstTemplate\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T16:23:17.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Service\\Index.cshtml",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Areas\\Admin\\Views\\Service\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Service\\Index.cshtml*",
-              "RelativeToolTip": "AspFirstTemplate\\Areas\\Admin\\Views\\Service\\Index.cshtml*",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADwAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T16:23:14.86Z",
+              "WhenOpened": "2024-11-27T00:19:29.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Work.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Models\\Work.cs",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Models\\Work.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Models\\Work.cs",
-              "RelativeToolTip": "AspFirstTemplate\\Models\\Work.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T15:59:38.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "AspFirstTemplate\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBAAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T15:53:54.17Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Models\\Service.cs",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Models\\Service.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Models\\Service.cs",
-              "RelativeToolTip": "AspFirstTemplate\\Models\\Service.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T15:53:44.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServiceController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Controllers\\ServiceController.cs",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Areas\\Admin\\Controllers\\ServiceController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Controllers\\ServiceController.cs",
-              "RelativeToolTip": "AspFirstTemplate\\Areas\\Admin\\Controllers\\ServiceController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAqwCwAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T15:52:53.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "AspFirstTemplate\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T15:44:57.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Program.cs",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Program.cs",
-              "RelativeToolTip": "AspFirstTemplate\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T15:44:33.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Work\\Index.cshtml",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Areas\\Admin\\Views\\Work\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Work\\Index.cshtml",
-              "RelativeToolTip": "AspFirstTemplate\\Areas\\Admin\\Views\\Work\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADQAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T15:42:58.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "header.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Views\\Shared\\header.cshtml",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Views\\Shared\\header.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Views\\Shared\\header.cshtml",
-              "RelativeToolTip": "AspFirstTemplate\\Views\\Shared\\header.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACIAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T15:41:13.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "tobar.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Shared\\tobar.cshtml",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Areas\\Admin\\Views\\Shared\\tobar.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Shared\\tobar.cshtml",
-              "RelativeToolTip": "AspFirstTemplate\\Areas\\Admin\\Views\\Shared\\tobar.cshtml",
-              "ViewState": "AgIAAKkAAAAAAAAAAAAcwMsAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T14:26:06.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "sidebar.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Shared\\sidebar.cshtml",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Areas\\Admin\\Views\\Shared\\sidebar.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Shared\\sidebar.cshtml",
-              "RelativeToolTip": "AspFirstTemplate\\Areas\\Admin\\Views\\Shared\\sidebar.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAwCMAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T14:23:50.208Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "footer.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Shared\\footer.cshtml",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Areas\\Admin\\Views\\Shared\\footer.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Shared\\footer.cshtml",
-              "RelativeToolTip": "AspFirstTemplate\\Areas\\Admin\\Views\\Shared\\footer.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T14:23:12.667Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "header.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Shared\\header.cshtml",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Areas\\Admin\\Views\\Shared\\header.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Shared\\header.cshtml",
-              "RelativeToolTip": "AspFirstTemplate\\Areas\\Admin\\Views\\Shared\\header.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T14:23:02.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AspFirstTemplate\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AspFirstTemplate\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T14:22:36.512Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\appsettings.json",
               "RelativeDocumentMoniker": "AspFirstTemplate\\appsettings.json",
               "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\appsettings.json",
               "RelativeToolTip": "AspFirstTemplate\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-22T22:56:34.619Z"
+              "WhenOpened": "2024-11-26T02:08:13.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Program.cs",
+              "RelativeDocumentMoniker": "AspFirstTemplate\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Program.cs",
+              "RelativeToolTip": "AspFirstTemplate\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:08:09.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AspFirstTemplate\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AspFirstTemplate\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:25:15.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Controllers\\WorkController.cs",
+              "RelativeDocumentMoniker": "AspFirstTemplate\\Areas\\Admin\\Controllers\\WorkController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Controllers\\WorkController.cs",
+              "RelativeToolTip": "AspFirstTemplate\\Areas\\Admin\\Controllers\\WorkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:34:00.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspFirstTemplate\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "AspFirstTemplate\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T22:24:31.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "RelativeDocumentMoniker": "AspFirstTemplate\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "RelativeToolTip": "AspFirstTemplate\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T22:21:31.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "AspFirstTemplate\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "AspFirstTemplate\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:52:53.219Z"
             }
           ]
         }
