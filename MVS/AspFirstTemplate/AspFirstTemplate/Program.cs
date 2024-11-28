@@ -16,6 +16,7 @@ namespace AspFirstTemplate
             builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
             {
                 opt.Password.RequiredLength = 3;
+                opt.User.RequireUniqueEmail = true;
             }).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>();
 
             builder.Services.AddDbContext<AppDbContext>(options =>
@@ -25,7 +26,7 @@ namespace AspFirstTemplate
 
 
             app.UseStaticFiles();
-
+            app.UseAuthentication();
             app.UseRouting();
 
          
