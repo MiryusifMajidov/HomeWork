@@ -1,0 +1,16 @@
+﻿﻿@using UniqloDAL.DTOs;
+@model CategoryDto;
+<div class="container mt-5">
+    <h1 class="text-center mb-4">Add Category</h1>
+    <form method="POST">
+
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Name</label>
+            <input type="text" class="form-control" id="title" asp-for="Name" required>
+        </div>
+
+
+        
+        <button type="submit" class="btn btn-primary w-100">Əlavə et</button>
+    </form>
+</div>

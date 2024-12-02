@@ -1,0 +1,42 @@
+﻿﻿@using UniqloDAL.DTOs;
+@model ProductDto;
+<div class="container mt-5">
+    <h1 class="text-center mb-4">Add Category</h1>
+    <form method="POST">
+
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Name</label>
+            <input type="text" class="form-control" id="title" asp-for="Name" required>
+        </div> 
+        
+        <div class="mb-3">
+            <label asp-for="Image" class="form-label">Image</label>
+            <input type="text" class="form-control" id="title" asp-for="Image" required>
+        </div>
+        
+        <div class="mb-3">
+            <label asp-for="Price" class="form-label">Price</label>
+            <input type="text" class="form-control" id="title" asp-for="Price" required>
+        </div>
+         <div class="mb-3"> 
+           <label asp-for="CategoryId" class="form-label">Service</label>
+
+             <select class="form-select" id="serviceId" asp-for="CategoryId" required>
+                <option value="" disabled selected>Select a service</option>
+                 @if (ViewBag.Category != null) 
+                 {
+                    foreach (var item in ViewBag.Category)
+                    {
+                      <option value="@item.Id">@item.Name</option>
+                    }
+                }
+
+
+        </select> 
+       </div>
+
+
+
+        <button type="submit" class="btn btn-primary w-100">Əlavə et</button>
+    </form>
+</div>
