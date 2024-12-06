@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspFirstTemplate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e6addd5368299703ca989657bf6d3a168f62847")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspFirstTemplate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspFirstTemplate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
