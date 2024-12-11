@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BpcaVhDy6Vg=",
+  "dgSpecHash": "HIYUMHAKz/4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\II Novbe\\source\\repos\\UniqloMvc\\UniqloDAL\\UniqloDAL.csproj",
+  "projectFilePath": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\UniqloMvc\\UniqloDAL\\UniqloDAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\II Novbe\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\II Novbe\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
