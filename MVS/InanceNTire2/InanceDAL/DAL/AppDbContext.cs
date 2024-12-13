@@ -18,6 +18,8 @@ namespace InanceDAL.DAL
         public DbSet<Order> Orders { get; set; }
         public DbSet<Service> Services { get; set; }
         public DbSet<AppUser> AppUsers { get; set; }
+        public DbSet<ServiceImage> ServiceImages { get; set; }
+        public DbSet<SmtpSetting> smtpSettings { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

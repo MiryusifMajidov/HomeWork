@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InanceDAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22233d76824c6aba46b551568c0f8d866f24489e")]
 [assembly: System.Reflection.AssemblyProductAttribute("InanceDAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InanceDAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

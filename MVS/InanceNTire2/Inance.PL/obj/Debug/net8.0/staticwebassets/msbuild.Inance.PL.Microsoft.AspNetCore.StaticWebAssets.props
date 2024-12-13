@@ -29984,6 +29984,54 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\s3.png))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\Service\15f0deec-6e80-44e8-b926-a70fa0c6403e_download (1).jpeg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Inance.PL</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Inance.PL</BasePath>
+      <RelativePath>images/Service/15f0deec-6e80-44e8-b926-a70fa0c6403e_download (1).jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\Service\15f0deec-6e80-44e8-b926-a70fa0c6403e_download (1).jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\Service\bb9de479-1c17-417b-b2d7-428618e43c9f_6 Movies Similar to The Matrix (1999) --__Follow_ _cinema_nighttt__Credits_ _filmset22___cinema _hollywood_0(HEIC).heic))">
+      <SourceType>Package</SourceType>
+      <SourceId>Inance.PL</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Inance.PL</BasePath>
+      <RelativePath>images/Service/bb9de479-1c17-417b-b2d7-428618e43c9f_6 Movies Similar to The Matrix (1999) --__Follow_ _cinema_nighttt__Credits_ _filmset22___cinema _hollywood_0(HEIC).heic</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\Service\bb9de479-1c17-417b-b2d7-428618e43c9f_6 Movies Similar to The Matrix (1999) --__Follow_ _cinema_nighttt__Credits_ _filmset22___cinema _hollywood_0(HEIC).heic))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\Service\cd8cb088-1268-4d22-bdda-097e396cfe00_bubirshekiladidir.jpeg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Inance.PL</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Inance.PL</BasePath>
+      <RelativePath>images/Service/cd8cb088-1268-4d22-bdda-097e396cfe00_bubirshekiladidir.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\Service\cd8cb088-1268-4d22-bdda-097e396cfe00_bubirshekiladidir.jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\slider-img.png))">
       <SourceType>Package</SourceType>
       <SourceId>Inance.PL</SourceId>

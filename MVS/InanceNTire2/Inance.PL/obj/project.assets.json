@@ -670,6 +670,39 @@
           }
         }
       },
+      "Microsoft.AspNetCore.Http.Abstractions/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "2.2.0",
+          "System.Text.Encodings.Web": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Http.Features/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "2.2.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore/8.0.11": {
         "type": "package",
         "dependencies": {
@@ -2903,7 +2936,6 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "InanceModels": "1.0.0",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.11",
           "Microsoft.EntityFrameworkCore": "9.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0"
         },
@@ -2917,11 +2949,29 @@
       "InanceModels/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.11"
+        },
         "compile": {
           "bin/placeholder/InanceModels.dll": {}
         },
         "runtime": {
           "bin/placeholder/InanceModels.dll": {}
+        }
+      },
+      "Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "InanceModels": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "9.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infrastructure.dll": {}
         }
       }
     }
@@ -3747,6 +3797,32 @@
         "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.xml",
         "microsoft.aspnetcore.cryptography.keyderivation.8.0.11.nupkg.sha512",
         "microsoft.aspnetcore.cryptography.keyderivation.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Http.Abstractions/2.2.0": {
+      "sha512": "Nxs7Z1q3f1STfLYKJSVXCs1iBl+Ya6E8o4Oy1bCxJ/rNI44E/0f6tbsrVqAWfB7jlnJfyaAtIalBVxPKUPQb4Q==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.http.abstractions/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.xml",
+        "microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+        "microsoft.aspnetcore.http.abstractions.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Http.Features/2.2.0": {
+      "sha512": "ziFz5zH8f33En4dX81LW84I6XrYXKf9jg6aM39cM+LffN9KJahViKZ61dGMSO2gd3e+qe5yBRwsesvyqlZaSMg==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.http.features/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.xml",
+        "microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+        "microsoft.aspnetcore.http.features.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Identity.EntityFrameworkCore/8.0.11": {
@@ -7949,12 +8025,18 @@
       "type": "project",
       "path": "../InanceModels/InanceModels.csproj",
       "msbuildProject": "../InanceModels/InanceModels.csproj"
+    },
+    "Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Infrastructure/Infrastructure.csproj",
+      "msbuildProject": "../Infrastructure/Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "InanceBL >= 1.0.0",
       "InanceModels >= 1.0.0",
+      "Infrastructure >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.7"
     ]
@@ -7966,11 +8048,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\InanceNTire2\\Inance.PL\\Inance.PL.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Inance.PL.csproj",
       "projectName": "Inance.PL",
-      "projectPath": "C:\\Users\\User\\source\\repos\\InanceNTire2\\Inance.PL\\Inance.PL.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Inance.PL.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\InanceNTire2\\Inance.PL\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7992,11 +8074,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\InanceNTire2\\InanceBL\\InanceBL.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\InanceNTire2\\InanceBL\\InanceBL.csproj"
+            "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceBL\\InanceBL.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceBL\\InanceBL.csproj"
             },
-            "C:\\Users\\User\\source\\repos\\InanceNTire2\\InanceModels\\InanceModels.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\InanceNTire2\\InanceModels\\InanceModels.csproj"
+            "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\InanceModels.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\InanceModels.csproj"
+            },
+            "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

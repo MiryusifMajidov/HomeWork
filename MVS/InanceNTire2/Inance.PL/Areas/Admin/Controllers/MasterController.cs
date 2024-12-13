@@ -3,10 +3,12 @@ using InanceModels.Models;
 using InanceModels.DTOs;
 
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Inance.PL.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin")]
     public class MasterController : Controller
     {
         

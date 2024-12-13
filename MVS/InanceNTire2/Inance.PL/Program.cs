@@ -1,9 +1,12 @@
+using InanceBL.Services;
 using InanceBL.Services.Implementations;
 using InanceBL.Services.Interfaces;
 using InanceDAL.DAL;
 using InanceDAL.Implementations;
 using InanceDAL.Interfaces;
 using InanceModels.Models;
+using Infrastructure.Seeders;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 
@@ -11,10 +14,23 @@ namespace Inance.PL
 {
 	public class Program
 	{
-		public static void Main(string[] args)
+		public static async Task Main(string[] args)
 		{
 			var builder = WebApplication.CreateBuilder(args);
 			builder.Services.AddControllersWithViews();
+
+            builder.Services.Configure<SmtpSetting>(builder.Configuration.GetSection("SmtpSettings"));
+            builder.Services.AddScoped<EmailService>();
+
+
+
+
+            builder.Services.AddIdentity<AppUser, IdentityRole>(
+				opt =>
+				{
+					opt.Password.RequiredLength = 3;
+					opt.User.RequireUniqueEmail = true;
+				}).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>();
 
 			builder.Services.AddDbContext<AppDbContext>(options => 
 			options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -24,9 +40,19 @@ namespace Inance.PL
 
             var app = builder.Build();
 
+            using (var scope = app.Services.CreateScope())
+            {
+                var serviceProvider = scope.ServiceProvider;
+                await RoleSeeder.SeedRoles(serviceProvider);
+            }
 
-			app.UseStaticFiles();
-			//app.UseAuthentication();
+
+
+            app.UseStaticFiles();
+            app.UseAuthentication();
+            app.UseAuthorization();
+
+
 
             app.MapControllerRoute(
 			   name: "areas",
@@ -42,7 +68,3 @@ namespace Inance.PL
 		}
 	}
 }
-
-
-
-

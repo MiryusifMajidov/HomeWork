@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Http;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -17,5 +18,10 @@ namespace InanceModels.DTOs
         [Length(3, 300)]
         [Display(Prompt = "Description")]
         public string Description { get; set; }
+
+        [Display(Prompt = "Title")]
+        public List<IFormFile> Images { get; set; }
+
+
     }
 }

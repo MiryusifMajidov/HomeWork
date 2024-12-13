@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InanceModels.DTOs.UserDTOs
+namespace InanceModels.DTOs.UserDtos
 {
     public class LoginDto
     {
@@ -16,8 +16,6 @@ namespace InanceModels.DTOs.UserDTOs
         [Display(Prompt = "Password")]
         public string Password { get; set; }
 
-
-
-        public bool? IsPersistent { get; set; }
+        public bool isPersistant { get; set; }
     }
 }

@@ -9,3 +9,16 @@ C:\Users\User\source\repos\InanceNTire2\InanceModels\obj\Debug\net8.0\InanceMode
 C:\Users\User\source\repos\InanceNTire2\InanceModels\obj\Debug\net8.0\refint\InanceModels.dll
 C:\Users\User\source\repos\InanceNTire2\InanceModels\obj\Debug\net8.0\InanceModels.pdb
 C:\Users\User\source\repos\InanceNTire2\InanceModels\obj\Debug\net8.0\ref\InanceModels.dll
+C:\Users\User\Desktop\HomeTaskCode\MVS\InanceNTire2\InanceModels\bin\Debug\net8.0\InanceModels.deps.json
+C:\Users\User\Desktop\HomeTaskCode\MVS\InanceNTire2\InanceModels\bin\Debug\net8.0\InanceModels.dll
+C:\Users\User\Desktop\HomeTaskCode\MVS\InanceNTire2\InanceModels\bin\Debug\net8.0\InanceModels.pdb
+C:\Users\User\Desktop\HomeTaskCode\MVS\InanceNTire2\InanceModels\obj\Debug\net8.0\InanceModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HomeTaskCode\MVS\InanceNTire2\InanceModels\obj\Debug\net8.0\InanceModels.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeTaskCode\MVS\InanceNTire2\InanceModels\obj\Debug\net8.0\InanceModels.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeTaskCode\MVS\InanceNTire2\InanceModels\obj\Debug\net8.0\InanceModels.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeTaskCode\MVS\InanceNTire2\InanceModels\obj\Debug\net8.0\InanceModels.sourcelink.json
+C:\Users\User\Desktop\HomeTaskCode\MVS\InanceNTire2\InanceModels\obj\Debug\net8.0\InanceModels.dll
+C:\Users\User\Desktop\HomeTaskCode\MVS\InanceNTire2\InanceModels\obj\Debug\net8.0\refint\InanceModels.dll
+C:\Users\User\Desktop\HomeTaskCode\MVS\InanceNTire2\InanceModels\obj\Debug\net8.0\InanceModels.pdb
+C:\Users\User\Desktop\HomeTaskCode\MVS\InanceNTire2\InanceModels\obj\Debug\net8.0\ref\InanceModels.dll
+C:\Users\User\Desktop\HomeTaskCode\MVS\InanceNTire2\InanceModels\obj\Debug\net8.0\InanceModels.csproj.AssemblyReference.cache

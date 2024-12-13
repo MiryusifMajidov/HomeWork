@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\InanceNTire2\\InanceModels\\InanceModels.csproj": {}
+    "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\InanceModels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\InanceNTire2\\InanceModels\\InanceModels.csproj": {
+    "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\InanceModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\InanceNTire2\\InanceModels\\InanceModels.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\InanceModels.csproj",
         "projectName": "InanceModels",
-        "projectPath": "C:\\Users\\User\\source\\repos\\InanceNTire2\\InanceModels\\InanceModels.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\InanceModels.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\InanceNTire2\\InanceModels\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -2,18 +2,47 @@
 @model ServiceDto;
 <div class="container mt-5">
     <h1 class="text-center mb-4">Add Service</h1>
-    <form method="POST">
+    <form method="POST" enctype="multipart/form-data">
 
         <div class="mb-3">
             <label asp-for="Title" class="form-label">Title</label>
-            <input type="text" class="form-control" id="title" asp-for="Title" placeholder="Enter title (e.g., Graphic Designer)" required>
+            <input type="text" class="form-control" id="title" asp-for="Title"  required>
         </div>
-
-
         <div class="mb-3">
             <label asp-for="Description" class="form-label">Description</label>
-            <textarea class="form-control" id="description" asp-for="Description" rows="2" placeholder="Enter a short description" required></textarea>
+            <textarea class="form-control" id="description" asp-for="Description" required></textarea>
         </div>
+
+        <div class="mb-3">
+            <label asp-for="Images" class="form-label">Images</label>
+            <input asp-for="Images" class="form-control" multiple required>
+        </div>
+
+        <div class="row g-3">
+    @if (ViewBag.Images != null)
+    {
+        @foreach (var item in ViewBag.Images)
+        {
+            <div class="col-md-3 position-relative">
+                <div class="border rounded overflow-hidden position-relative shadow-sm">
+                    <img src="~/images/Service/@item.Image" alt="Image" class="img-fluid w-100" style="height: 150px; object-fit: cover;">
+
+                    <!-- Silmə düyməsini tərtib edirik -->
+                    <button type="button" class="btn btn-danger btn-sm  top-0 end-0 m-2 rounded-circle shadow" 
+                            style="z-index: 10; transform: translate(50%, -50%);"
+                            data-image-id="@item.Id">
+                        &times;
+                    </button>
+                </div>
+            </div>
+        }
+    }
+</div>
+
+<br><br>
+
+
+       
 
         <button type="submit" class="btn btn-primary w-100">Əlavə et</button>
     </form>
