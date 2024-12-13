@@ -80,6 +80,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
 [C:/Users/II Novbe/Desktop/tt/HomeWork/MVS/InanceNTire2/Inance.PL/Views/_ViewStart.cshtml]
+=======
+[C:/Users/User/source/repos/InanceNTire2/Inance.PL/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/InanceNTire2/Inance.PL/Views/_ViewStart.cshtml]
+>>>>>>> 22233d76824c6aba46b551568c0f8d866f24489e
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

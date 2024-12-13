@@ -8,5 +8,7 @@ namespace GameStore.PL.Controllers
         {
             return View();
         }
+
+        
     }
 }

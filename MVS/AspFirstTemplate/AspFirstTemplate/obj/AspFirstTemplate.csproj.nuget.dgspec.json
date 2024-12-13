@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\AspFirstTemplate.csproj": {}
+    "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\AspFirstTemplate\\AspFirstTemplate\\AspFirstTemplate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\AspFirstTemplate.csproj": {
+    "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\AspFirstTemplate\\AspFirstTemplate\\AspFirstTemplate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\AspFirstTemplate.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\AspFirstTemplate\\AspFirstTemplate\\AspFirstTemplate.csproj",
         "projectName": "AspFirstTemplate",
-        "projectPath": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\AspFirstTemplate.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\AspFirstTemplate\\AspFirstTemplate\\AspFirstTemplate.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\AspFirstTemplate\\AspFirstTemplate\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\AspFirstTemplate\\AspFirstTemplate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

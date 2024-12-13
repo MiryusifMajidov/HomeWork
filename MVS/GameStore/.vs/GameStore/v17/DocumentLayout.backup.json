@@ -1,109 +1,149 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\",
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.model\\dtos\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|solutionrelative:gamestore.model\\dtos\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.model\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|solutionrelative:gamestore.model\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.model\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.model\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|solutionrelative:gamestore.model\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.pl\\areas\\admin\\views\\game\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\areas\\admin\\views\\game\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.pl\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.pl\\areas\\admin\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\areas\\admin\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.pl\\areas\\admin\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\areas\\admin\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.pl\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.pl\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.pl\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.model\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|solutionrelative:gamestore.model\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.dal\\migrations\\20241211134930_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|solutionrelative:gamestore.dal\\migrations\\20241211134930_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.pl\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.pl\\gamestore.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\gamestore.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{923D6959-FA50-46C7-8E8B-D1D5886D6EC7}|GameStore.BL\\GameStore.BL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.bl\\services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{923D6959-FA50-46C7-8E8B-D1D5886D6EC7}|GameStore.BL\\GameStore.BL.csproj|solutionrelative:gamestore.bl\\services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{923D6959-FA50-46C7-8E8B-D1D5886D6EC7}|GameStore.BL\\GameStore.BL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.bl\\services\\implementations\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{923D6959-FA50-46C7-8E8B-D1D5886D6EC7}|GameStore.BL\\GameStore.BL.csproj|solutionrelative:gamestore.bl\\services\\implementations\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.dal\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|solutionrelative:gamestore.dal\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|solutionrelative:gamestore.dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.dal\\gamestore.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|solutionrelative:gamestore.dal\\gamestore.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|solutionrelative:gamestore.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.model\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|solutionrelative:gamestore.model\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.model\\gamestore.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.model\\gamestore.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|solutionrelative:gamestore.model\\gamestore.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|solutionrelative:gamestore.model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.pl\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.pl\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.DAL\\Migrations\\20241213125238_addedCommentTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameStore.DAL\\Migrations\\20241213125238_addedCommentTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|solutionrelative:gamestore.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.pl\\gamestore.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\gamestore.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.dal\\gamestore.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|solutionrelative:gamestore.dal\\gamestore.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.model\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|solutionrelative:gamestore.model\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.model\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|solutionrelative:gamestore.model\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.pl\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.pl\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.pl\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C3AF114-735F-46BD-8ACB-0F1B83D495A9}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.dal\\migrations\\20241211134930_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|solutionrelative:gamestore.dal\\migrations\\20241211134930_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923D6959-FA50-46C7-8E8B-D1D5886D6EC7}|GameStore.BL\\GameStore.BL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.bl\\services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923D6959-FA50-46C7-8E8B-D1D5886D6EC7}|GameStore.BL\\GameStore.BL.csproj|solutionrelative:gamestore.bl\\services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923D6959-FA50-46C7-8E8B-D1D5886D6EC7}|GameStore.BL\\GameStore.BL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.bl\\services\\implementations\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923D6959-FA50-46C7-8E8B-D1D5886D6EC7}|GameStore.BL\\GameStore.BL.csproj|solutionrelative:gamestore.bl\\services\\implementations\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.dal\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|solutionrelative:gamestore.dal\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|solutionrelative:gamestore.dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70213B46-77F3-4CFD-94EA-C46F732DFBBC}|GameStore.Model\\GameStore.Model.csproj|solutionrelative:gamestore.model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7417B9E-100C-4CCF-86A5-D9A56E9E90BE}|GameStore.DAL\\GameStore.DAL.csproj|solutionrelative:gamestore.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{923D6959-FA50-46C7-8E8B-D1D5886D6EC7}|GameStore.BL\\GameStore.BL.csproj|c:\\users\\ii novbe\\source\\repos\\gamestore\\gamestore.bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{923D6959-FA50-46C7-8E8B-D1D5886D6EC7}|GameStore.BL\\GameStore.BL.csproj|c:\\users\\ii novbe\\desktop\\tt\\homework\\mvs\\gamestore\\gamestore.bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{923D6959-FA50-46C7-8E8B-D1D5886D6EC7}|GameStore.BL\\GameStore.BL.csproj|solutionrelative:gamestore.bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -114,67 +154,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.Model\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "GameStore.Model\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.Model\\Models\\AppUser.cs*",
-              "RelativeToolTip": "GameStore.Model\\Models\\AppUser.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T14:07:38.915Z",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Areas\\Admin\\Views\\Game\\Create.cshtml",
+              "RelativeDocumentMoniker": "GameStore.PL\\Areas\\Admin\\Views\\Game\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Areas\\Admin\\Views\\Game\\Create.cshtml*",
+              "RelativeToolTip": "GameStore.PL\\Areas\\Admin\\Views\\Game\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T13:32:22.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "GameStore.PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "GameStore.PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "GameStore.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "GameStore.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T13:58:42.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "GameStore.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "GameStore.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFoBAAAAAAAAAAAuwHkBAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T13:58:26.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "GameStore.PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "GameStore.PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T13:57:44.966Z",
+              "WhenOpened": "2024-12-13T13:27:02.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.Model\\DTOs\\Product\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "GameStore.Model\\DTOs\\Product\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.Model\\DTOs\\Product\\ProductCreateDto.cs*",
+              "RelativeToolTip": "GameStore.Model\\DTOs\\Product\\ProductCreateDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:24:24.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Areas\\Admin\\Views\\Game\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameStore.PL\\Areas\\Admin\\Views\\Game\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Areas\\Admin\\Views\\Game\\Index.cshtml",
+              "RelativeToolTip": "GameStore.PL\\Areas\\Admin\\Views\\Game\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T13:21:02.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Areas\\Admin\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "GameStore.PL\\Areas\\Admin\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Areas\\Admin\\Controllers\\GameController.cs",
+              "RelativeToolTip": "GameStore.PL\\Areas\\Admin\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:20:50.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "GameStore.PL\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "GameStore.PL\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAF8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T13:19:35.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GameStore.PL\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GameStore.PL\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:19:07.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "GameStore.PL\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "GameStore.PL\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAowHMAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T12:54:28.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.Model\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "GameStore.Model\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.Model\\Models\\Game.cs",
+              "RelativeToolTip": "GameStore.Model\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:17:26.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.Model\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "GameStore.Model\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.Model\\Models\\Comment.cs",
+              "RelativeToolTip": "GameStore.Model\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:42:38.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "GameStore.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "GameStore.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -183,180 +301,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "GameStore.PL\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "GameStore.PL\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-11T13:55:54.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20241211134930_first.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.DAL\\Migrations\\20241211134930_first.cs",
-              "RelativeDocumentMoniker": "GameStore.DAL\\Migrations\\20241211134930_first.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.DAL\\Migrations\\20241211134930_first.cs",
-              "RelativeToolTip": "GameStore.DAL\\Migrations\\20241211134930_first.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "20241213125238_addedCommentTable.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.DAL\\Migrations\\20241213125238_addedCommentTable.cs",
+              "RelativeDocumentMoniker": "GameStore.DAL\\Migrations\\20241213125238_addedCommentTable.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.DAL\\Migrations\\20241213125238_addedCommentTable.cs",
+              "RelativeToolTip": "GameStore.DAL\\Migrations\\20241213125238_addedCommentTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T13:49:31.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IService.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.BL\\Services\\Interfaces\\IService.cs",
-              "RelativeDocumentMoniker": "GameStore.BL\\Services\\Interfaces\\IService.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.BL\\Services\\Interfaces\\IService.cs",
-              "RelativeToolTip": "GameStore.BL\\Services\\Interfaces\\IService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T13:39:09.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\Program.cs",
-              "RelativeDocumentMoniker": "GameStore.PL\\Program.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\Program.cs*",
-              "RelativeToolTip": "GameStore.PL\\Program.cs*",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T12:58:03.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.Model\\Models\\Game.cs",
-              "RelativeDocumentMoniker": "GameStore.Model\\Models\\Game.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.Model\\Models\\Game.cs",
-              "RelativeToolTip": "GameStore.Model\\Models\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T13:17:26.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.BL\\Services\\Implementations\\Service.cs",
-              "RelativeDocumentMoniker": "GameStore.BL\\Services\\Implementations\\Service.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.BL\\Services\\Implementations\\Service.cs",
-              "RelativeToolTip": "GameStore.BL\\Services\\Implementations\\Service.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T13:41:07.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.DAL\\Implementations\\Repository.cs",
-              "RelativeDocumentMoniker": "GameStore.DAL\\Implementations\\Repository.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.DAL\\Implementations\\Repository.cs",
-              "RelativeToolTip": "GameStore.DAL\\Implementations\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T13:28:27.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.DAL\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "GameStore.DAL\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.DAL\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "GameStore.DAL\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T13:27:37.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.Model\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "GameStore.Model\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.Model\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "GameStore.Model\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T13:17:49.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\appsettings.json",
-              "RelativeDocumentMoniker": "GameStore.PL\\appsettings.json",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\appsettings.json",
-              "RelativeToolTip": "GameStore.PL\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-11T13:06:43.571Z",
+              "WhenOpened": "2024-12-13T12:52:39.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "GameStore.Model",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.Model\\GameStore.Model.csproj",
-              "RelativeDocumentMoniker": "GameStore.Model\\GameStore.Model.csproj",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.Model\\GameStore.Model.csproj",
-              "RelativeToolTip": "GameStore.Model\\GameStore.Model.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-11T13:09:51.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.DAL\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "GameStore.DAL\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.DAL\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "GameStore.DAL\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T13:03:43.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GameStore.DAL",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.DAL\\GameStore.DAL.csproj",
-              "RelativeDocumentMoniker": "GameStore.DAL\\GameStore.DAL.csproj",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.DAL\\GameStore.DAL.csproj",
-              "RelativeToolTip": "GameStore.DAL\\GameStore.DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-11T13:02:45.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GameStore.PL",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\GameStore.PL.csproj",
+              "Title": "GameStore.PL.csproj",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\GameStore.PL.csproj",
               "RelativeDocumentMoniker": "GameStore.PL\\GameStore.PL.csproj",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\GameStore.PL.csproj",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\GameStore.PL.csproj",
               "RelativeToolTip": "GameStore.PL\\GameStore.PL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -365,37 +327,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "GameStore.PL\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "GameStore.PL\\Views\\_ViewStart.cshtml",
+              "DocumentIndex": 9,
+              "Title": "GameStore.Model.csproj",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.Model\\GameStore.Model.csproj",
+              "RelativeDocumentMoniker": "GameStore.Model\\GameStore.Model.csproj",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.Model\\GameStore.Model.csproj",
+              "RelativeToolTip": "GameStore.Model\\GameStore.Model.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T12:58:29.842Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T13:09:51.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "GameStore.PL\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "GameStore.PL\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAEsAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T12:56:09.622Z",
+              "DocumentIndex": 19,
+              "Title": "GameStore.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.DAL\\GameStore.DAL.csproj",
+              "RelativeDocumentMoniker": "GameStore.DAL\\GameStore.DAL.csproj",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.DAL\\GameStore.DAL.csproj",
+              "RelativeToolTip": "GameStore.DAL\\GameStore.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T13:02:45.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 20,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.Model\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "GameStore.Model\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.Model\\Models\\AppUser.cs",
+              "RelativeToolTip": "GameStore.Model\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:07:38.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GameStore.PL\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GameStore.PL\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:55:27.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "GameStore.PL\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "GameStore.PL\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoBAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -404,24 +392,210 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "GameStore.PL\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.PL\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "GameStore.PL\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.Model\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "GameStore.Model\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.Model\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "GameStore.Model\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T12:55:27.096Z",
+              "WhenOpened": "2024-12-11T13:17:49.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GameStore.PL\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "GameStore.PL\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:58:29.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GameStore.PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GameStore.PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:56:09.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241211134930_first.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.DAL\\Migrations\\20241211134930_first.cs",
+              "RelativeDocumentMoniker": "GameStore.DAL\\Migrations\\20241211134930_first.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.DAL\\Migrations\\20241211134930_first.cs",
+              "RelativeToolTip": "GameStore.DAL\\Migrations\\20241211134930_first.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:49:31.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "GameStore.PL\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "GameStore.PL\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-11T13:55:54.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.DAL\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GameStore.DAL\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.DAL\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "GameStore.DAL\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:03:43.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameStore.PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "GameStore.PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T13:57:44.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GameStore.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GameStore.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFoBAAAAAAAAAAAuwHkBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T13:58:26.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GameStore.PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "GameStore.PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T13:58:42.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.BL\\Services\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "GameStore.BL\\Services\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.BL\\Services\\Interfaces\\IService.cs",
+              "RelativeToolTip": "GameStore.BL\\Services\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:39:09.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Program.cs",
+              "RelativeDocumentMoniker": "GameStore.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\Program.cs",
+              "RelativeToolTip": "GameStore.PL\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBJwBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:58:03.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.BL\\Services\\Implementations\\Service.cs",
+              "RelativeDocumentMoniker": "GameStore.BL\\Services\\Implementations\\Service.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.BL\\Services\\Implementations\\Service.cs",
+              "RelativeToolTip": "GameStore.BL\\Services\\Implementations\\Service.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:41:07.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.DAL\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "GameStore.DAL\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.DAL\\Implementations\\Repository.cs",
+              "RelativeToolTip": "GameStore.DAL\\Implementations\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:28:27.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.DAL\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "GameStore.DAL\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.DAL\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "GameStore.DAL\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:27:37.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "GameStore.PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.PL\\appsettings.json",
+              "RelativeToolTip": "GameStore.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T13:06:43.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.Model\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.Model\\Class1.cs",
               "RelativeDocumentMoniker": "GameStore.Model\\Class1.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.Model\\Class1.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.Model\\Class1.cs",
               "RelativeToolTip": "GameStore.Model\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -430,11 +604,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 34,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.DAL\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.DAL\\Class1.cs",
               "RelativeDocumentMoniker": "GameStore.DAL\\Class1.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.DAL\\Class1.cs",
               "RelativeToolTip": "GameStore.DAL\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -443,20 +617,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 35,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.BL\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.BL\\Class1.cs",
               "RelativeDocumentMoniker": "GameStore.BL\\Class1.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\GameStore\\GameStore.BL\\Class1.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\tt\\HomeWork\\MVS\\GameStore\\GameStore.BL\\Class1.cs",
               "RelativeToolTip": "GameStore.BL\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T12:48:23.274Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
