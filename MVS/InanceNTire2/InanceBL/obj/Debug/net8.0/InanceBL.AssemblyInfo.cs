@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InanceBL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22233d76824c6aba46b551568c0f8d866f24489e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c370faa9e27bbda54336fd8c8c2d72d314fa6f03")]
 [assembly: System.Reflection.AssemblyProductAttribute("InanceBL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InanceBL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

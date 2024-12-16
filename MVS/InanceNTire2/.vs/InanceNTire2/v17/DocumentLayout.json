@@ -3,8 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B6572C79-C84F-40F9-A4E0-DC9576BC29D4}|InanceDAL\\InanceDAL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inancedal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6572C79-C84F-40F9-A4E0-DC9576BC29D4}|InanceDAL\\InanceDAL.csproj|solutionrelative:inancedal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\areas\\admin\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\areas\\admin\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\areas\\admin\\views\\master\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\areas\\admin\\views\\master\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\areas\\admin\\views\\master\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\areas\\admin\\views\\master\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E476AC0D-DA79-4F17-AAAF-8ED891468FFD}|InanceModels\\InanceModels.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inancemodels\\dtos\\servicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E476AC0D-DA79-4F17-AAAF-8ED891468FFD}|InanceModels\\InanceModels.csproj|solutionrelative:inancemodels\\dtos\\servicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E476AC0D-DA79-4F17-AAAF-8ED891468FFD}|InanceModels\\InanceModels.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inancemodels\\inancemodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E476AC0D-DA79-4F17-AAAF-8ED891468FFD}|InanceModels\\InanceModels.csproj|solutionrelative:inancemodels\\inancemodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A125DEF-7706-4D8A-9C51-8EEAC2EBA781}|InanceBL\\InanceBL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inancebl\\customextention\\fileuploadextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A125DEF-7706-4D8A-9C51-8EEAC2EBA781}|InanceBL\\InanceBL.csproj|solutionrelative:inancebl\\customextention\\fileuploadextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E476AC0D-DA79-4F17-AAAF-8ED891468FFD}|InanceModels\\InanceModels.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inancemodels\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E476AC0D-DA79-4F17-AAAF-8ED891468FFD}|InanceModels\\InanceModels.csproj|solutionrelative:inancemodels\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A125DEF-7706-4D8A-9C51-8EEAC2EBA781}|InanceBL\\InanceBL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inancebl\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A125DEF-7706-4D8A-9C51-8EEAC2EBA781}|InanceBL\\InanceBL.csproj|solutionrelative:inancebl\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400063EF-7158-4145-9636-73ED6FDD96B7}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\infrastructure\\seeders\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400063EF-7158-4145-9636-73ED6FDD96B7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\seeders\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400063EF-7158-4145-9636-73ED6FDD96B7}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{400063EF-7158-4145-9636-73ED6FDD96B7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E476AC0D-DA79-4F17-AAAF-8ED891468FFD}|InanceModels\\InanceModels.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inancemodels\\dtos\\userdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E476AC0D-DA79-4F17-AAAF-8ED891468FFD}|InanceModels\\InanceModels.csproj|solutionrelative:inancemodels\\dtos\\userdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6572C79-C84F-40F9-A4E0-DC9576BC29D4}|InanceDAL\\InanceDAL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inancedal\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,44 +103,12 @@
       "RelativeMoniker": "D:0:0:{6A125DEF-7706-4D8A-9C51-8EEAC2EBA781}|InanceBL\\InanceBL.csproj|solutionrelative:inancebl\\services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\areas\\admin\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\areas\\admin\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A125DEF-7706-4D8A-9C51-8EEAC2EBA781}|InanceBL\\InanceBL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inancebl\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A125DEF-7706-4D8A-9C51-8EEAC2EBA781}|InanceBL\\InanceBL.csproj|solutionrelative:inancebl\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A125DEF-7706-4D8A-9C51-8EEAC2EBA781}|InanceBL\\InanceBL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inancebl\\services\\implementations\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A125DEF-7706-4D8A-9C51-8EEAC2EBA781}|InanceBL\\InanceBL.csproj|solutionrelative:inancebl\\services\\implementations\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6572C79-C84F-40F9-A4E0-DC9576BC29D4}|InanceDAL\\InanceDAL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inancedal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6572C79-C84F-40F9-A4E0-DC9576BC29D4}|InanceDAL\\InanceDAL.csproj|solutionrelative:inancedal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E476AC0D-DA79-4F17-AAAF-8ED891468FFD}|InanceModels\\InanceModels.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inancemodels\\models\\smtpsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,14 +121,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E476AC0D-DA79-4F17-AAAF-8ED891468FFD}|InanceModels\\InanceModels.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inancemodels\\dtos\\servicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E476AC0D-DA79-4F17-AAAF-8ED891468FFD}|InanceModels\\InanceModels.csproj|solutionrelative:inancemodels\\dtos\\servicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6572C79-C84F-40F9-A4E0-DC9576BC29D4}|InanceDAL\\InanceDAL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inancedal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,40 +139,20 @@
       "RelativeMoniker": "D:0:0:{E476AC0D-DA79-4F17-AAAF-8ED891468FFD}|InanceModels\\InanceModels.csproj|solutionrelative:inancemodels\\models\\serviceimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A125DEF-7706-4D8A-9C51-8EEAC2EBA781}|InanceBL\\InanceBL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inancebl\\customextention\\fileuploadextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A125DEF-7706-4D8A-9C51-8EEAC2EBA781}|InanceBL\\InanceBL.csproj|solutionrelative:inancebl\\customextention\\fileuploadextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6A125DEF-7706-4D8A-9C51-8EEAC2EBA781}|InanceBL\\InanceBL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inancebl\\inancebl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6A125DEF-7706-4D8A-9C51-8EEAC2EBA781}|InanceBL\\InanceBL.csproj|solutionrelative:inancebl\\inancebl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inance.pl\\inance.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{914A6D78-CE90-4668-BE28-89E5BCC7A521}|Inance.PL\\Inance.PL.csproj|solutionrelative:inance.pl\\inance.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{400063EF-7158-4145-9636-73ED6FDD96B7}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\infrastructure\\seeders\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{400063EF-7158-4145-9636-73ED6FDD96B7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\seeders\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E476AC0D-DA79-4F17-AAAF-8ED891468FFD}|InanceModels\\InanceModels.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inancemodels\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E476AC0D-DA79-4F17-AAAF-8ED891468FFD}|InanceModels\\InanceModels.csproj|solutionrelative:inancemodels\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{400063EF-7158-4145-9636-73ED6FDD96B7}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{400063EF-7158-4145-9636-73ED6FDD96B7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{400063EF-7158-4145-9636-73ED6FDD96B7}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{400063EF-7158-4145-9636-73ED6FDD96B7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E476AC0D-DA79-4F17-AAAF-8ED891468FFD}|InanceModels\\InanceModels.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inancemodels\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E476AC0D-DA79-4F17-AAAF-8ED891468FFD}|InanceModels\\InanceModels.csproj|solutionrelative:inancemodels\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6572C79-C84F-40F9-A4E0-DC9576BC29D4}|InanceDAL\\InanceDAL.csproj|c:\\users\\user\\desktop\\hometaskcode\\mvs\\inancentire2\\inancedal\\migrations\\20241206061517_addedserviceimagetbale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -142,102 +170,310 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceBL\\Services\\EmailService.cs",
-              "RelativeDocumentMoniker": "InanceBL\\Services\\EmailService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceBL\\Services\\EmailService.cs",
-              "RelativeToolTip": "InanceBL\\Services\\EmailService.cs",
-              "ViewState": "AgIAAAcAAACgZ2ZmZiYgwA8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T18:46:24.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Inance.PL\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Inance.PL\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T22:57:51.739Z",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Areas\\Admin\\Views\\Master\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inance.PL\\Areas\\Admin\\Views\\Master\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Areas\\Admin\\Views\\Master\\Index.cshtml",
+              "RelativeToolTip": "Inance.PL\\Areas\\Admin\\Views\\Master\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T17:39:39.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Areas\\Admin\\Views\\Master\\Create.cshtml",
+              "RelativeDocumentMoniker": "Inance.PL\\Areas\\Admin\\Views\\Master\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Areas\\Admin\\Views\\Master\\Create.cshtml",
+              "RelativeToolTip": "Inance.PL\\Areas\\Admin\\Views\\Master\\Create.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T15:49:46.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InanceModels",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\InanceModels.csproj",
+              "RelativeDocumentMoniker": "InanceModels\\InanceModels.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\InanceModels.csproj",
+              "RelativeToolTip": "InanceModels\\InanceModels.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T18:10:26.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MasterController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Areas\\Admin\\Controllers\\MasterController.cs",
               "RelativeDocumentMoniker": "Inance.PL\\Areas\\Admin\\Controllers\\MasterController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Areas\\Admin\\Controllers\\MasterController.cs",
               "RelativeToolTip": "Inance.PL\\Areas\\Admin\\Controllers\\MasterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T00:55:38.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Inance.PL\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Inance.PL\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-03T23:38:26.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ServiceController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Areas\\Admin\\Controllers\\ServiceController.cs",
               "RelativeDocumentMoniker": "Inance.PL\\Areas\\Admin\\Controllers\\ServiceController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Areas\\Admin\\Controllers\\ServiceController.cs",
               "RelativeToolTip": "Inance.PL\\Areas\\Admin\\Controllers\\ServiceController.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAkwDcAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwDcAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T00:55:47.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "RelativeDocumentMoniker": "Inance.PL\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "RelativeToolTip": "Inance.PL\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T04:45:53.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Areas\\Admin\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Inance.PL\\Areas\\Admin\\Controllers\\OrderController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Areas\\Admin\\Controllers\\OrderController.cs",
               "RelativeToolTip": "Inance.PL\\Areas\\Admin\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T00:55:43.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceBL\\Services\\Interfaces\\IService.cs",
-              "RelativeDocumentMoniker": "InanceBL\\Services\\Interfaces\\IService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceBL\\Services\\Interfaces\\IService.cs",
-              "RelativeToolTip": "InanceBL\\Services\\Interfaces\\IService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceDAL\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "InanceDAL\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceDAL\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "InanceDAL\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wB4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T07:17:01.237Z",
+              "WhenOpened": "2024-12-04T00:33:34.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\DTOs\\UserDtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "InanceModels\\DTOs\\UserDtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\DTOs\\UserDtos\\LoginDto.cs",
+              "RelativeToolTip": "InanceModels\\DTOs\\UserDtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:26:52.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Inance.PL\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Inance.PL\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwHsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:57:51.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\DTOs\\ServiceDto.cs",
+              "RelativeDocumentMoniker": "InanceModels\\DTOs\\ServiceDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\DTOs\\ServiceDto.cs",
+              "RelativeToolTip": "InanceModels\\DTOs\\ServiceDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T05:07:00.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Inance.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Inance.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:51:41.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Inance.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Program.cs*",
+              "RelativeToolTip": "Inance.PL\\Program.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:51:46.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "Inance.PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\appsettings.json",
+              "RelativeToolTip": "Inance.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T23:49:00.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileUploadExtention.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceBL\\CustomExtention\\FileUploadExtention.cs",
+              "RelativeDocumentMoniker": "InanceBL\\CustomExtention\\FileUploadExtention.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceBL\\CustomExtention\\FileUploadExtention.cs",
+              "RelativeToolTip": "InanceBL\\CustomExtention\\FileUploadExtention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T05:32:15.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Inance.PL\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Inance.PL\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T13:14:15.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoleSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Infrastructure\\Seeders\\RoleSeeder.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Seeders\\RoleSeeder.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Infrastructure\\Seeders\\RoleSeeder.cs",
+              "RelativeToolTip": "Infrastructure\\Seeders\\RoleSeeder.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T00:18:54.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Inance.PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Inance.PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T23:38:26.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceBL\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "InanceBL\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceBL\\Services\\EmailService.cs",
+              "RelativeToolTip": "InanceBL\\Services\\EmailService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:46:24.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T00:35:53.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Inance.PL\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Inance.PL\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAC0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T23:28:10.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Inance.PL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Inance.PL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T13:21:10.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\DTOs\\UserDtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "InanceModels\\DTOs\\UserDtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\DTOs\\UserDtos\\RegisterDto.cs",
+              "RelativeToolTip": "InanceModels\\DTOs\\UserDtos\\RegisterDto.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:08:24.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceDAL\\Implementations\\Repository.cs",
               "RelativeDocumentMoniker": "InanceDAL\\Implementations\\Repository.cs",
@@ -245,12 +481,23 @@
               "RelativeToolTip": "InanceDAL\\Implementations\\Repository.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAswBMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T07:13:31.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T07:13:31.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceBL\\Services\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "InanceBL\\Services\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceBL\\Services\\Interfaces\\IService.cs",
+              "RelativeToolTip": "InanceBL\\Services\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T07:17:01.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceBL\\Services\\Implementations\\Service.cs",
               "RelativeDocumentMoniker": "InanceBL\\Services\\Implementations\\Service.cs",
@@ -262,31 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceDAL\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "InanceDAL\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceDAL\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "InanceDAL\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T00:33:34.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\appsettings.json",
-              "RelativeDocumentMoniker": "Inance.PL\\appsettings.json",
-              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\appsettings.json",
-              "RelativeToolTip": "Inance.PL\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-03T23:49:00.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 25,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Inance.PL\\Controllers\\HomeController.cs",
@@ -298,19 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Program.cs",
-              "RelativeDocumentMoniker": "Inance.PL\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Program.cs",
-              "RelativeToolTip": "Inance.PL\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA4wCMAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T23:51:46.693Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "SmtpSetting.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\Models\\SmtpSetting.cs",
               "RelativeDocumentMoniker": "InanceModels\\Models\\SmtpSetting.cs",
@@ -322,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 39,
               "Title": "20241206193505_smmm.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceDAL\\Migrations\\20241206193505_smmm.cs",
               "RelativeDocumentMoniker": "InanceDAL\\Migrations\\20241206193505_smmm.cs",
@@ -334,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 28,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Inance.PL\\Views\\_ViewStart.cshtml",
@@ -346,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Inance.PL\\Views\\Home\\Index.cshtml",
@@ -358,31 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Areas\\Admin\\Views\\Service\\Create.cshtml",
-              "RelativeDocumentMoniker": "Inance.PL\\Areas\\Admin\\Views\\Service\\Create.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Areas\\Admin\\Views\\Service\\Create.cshtml",
-              "RelativeToolTip": "Inance.PL\\Areas\\Admin\\Views\\Service\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-06T04:45:53.798Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ServiceDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\DTOs\\ServiceDto.cs",
-              "RelativeDocumentMoniker": "InanceModels\\DTOs\\ServiceDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\DTOs\\ServiceDto.cs",
-              "RelativeToolTip": "InanceModels\\DTOs\\ServiceDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T05:07:00.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceDAL\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "InanceDAL\\Interfaces\\IRepository.cs",
@@ -394,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 31,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\Models\\Service.cs",
               "RelativeDocumentMoniker": "InanceModels\\Models\\Service.cs",
@@ -406,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 32,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Areas\\Admin\\Views\\Service\\Index.cshtml",
               "RelativeDocumentMoniker": "Inance.PL\\Areas\\Admin\\Views\\Service\\Index.cshtml",
@@ -418,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 33,
               "Title": "ServiceImage.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\Models\\ServiceImage.cs",
               "RelativeDocumentMoniker": "InanceModels\\Models\\ServiceImage.cs",
@@ -430,19 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "FileUploadExtention.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceBL\\CustomExtention\\FileUploadExtention.cs",
-              "RelativeDocumentMoniker": "InanceBL\\CustomExtention\\FileUploadExtention.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceBL\\CustomExtention\\FileUploadExtention.cs",
-              "RelativeToolTip": "InanceBL\\CustomExtention\\FileUploadExtention.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T05:32:15.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 38,
               "Title": "20241206061517_addedserviceimagetbale.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceDAL\\Migrations\\20241206061517_addedserviceimagetbale.cs",
               "RelativeDocumentMoniker": "InanceDAL\\Migrations\\20241206061517_addedserviceimagetbale.cs",
@@ -454,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 34,
               "Title": "InanceBL.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceBL\\InanceBL.csproj",
               "RelativeDocumentMoniker": "InanceBL\\InanceBL.csproj",
@@ -462,11 +637,12 @@
               "RelativeToolTip": "InanceBL\\InanceBL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-06T05:31:19.041Z"
+              "WhenOpened": "2024-12-06T05:31:19.041Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 35,
               "Title": "Inance.PL.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Inance.PL.csproj",
               "RelativeDocumentMoniker": "Inance.PL\\Inance.PL.csproj",
@@ -474,23 +650,12 @@
               "RelativeToolTip": "Inance.PL\\Inance.PL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-04T00:42:29.441Z"
+              "WhenOpened": "2024-12-04T00:42:29.441Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Inance.PL\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Inance.PL\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Inance.PL\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-03T23:28:10.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 36,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "InanceModels\\Models\\AppUser.cs",
@@ -502,31 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Infrastructure\\Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Infrastructure\\Infrastructure.csproj",
-              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-04T00:35:53.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "RoleSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Infrastructure\\Seeders\\RoleSeeder.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Seeders\\RoleSeeder.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Infrastructure\\Seeders\\RoleSeeder.cs",
-              "RelativeToolTip": "Infrastructure\\Seeders\\RoleSeeder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T00:18:54.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
@@ -535,18 +676,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T00:18:21.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\DTOs\\UserDtos\\LoginDto.cs",
-              "RelativeDocumentMoniker": "InanceModels\\DTOs\\UserDtos\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\HomeTaskCode\\MVS\\InanceNTire2\\InanceModels\\DTOs\\UserDtos\\LoginDto.cs",
-              "RelativeToolTip": "InanceModels\\DTOs\\UserDtos\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T23:26:52.508Z"
             }
           ]
         }
