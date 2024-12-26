@@ -1,0 +1,12 @@
+C:\Users\II Novbe\source\repos\EcommerceApiTask\EcommerceApiTask.Model\bin\Debug\net8.0\EcommerceApiTask.Model.deps.json
+C:\Users\II Novbe\source\repos\EcommerceApiTask\EcommerceApiTask.Model\bin\Debug\net8.0\EcommerceApiTask.Model.dll
+C:\Users\II Novbe\source\repos\EcommerceApiTask\EcommerceApiTask.Model\bin\Debug\net8.0\EcommerceApiTask.Model.pdb
+C:\Users\II Novbe\source\repos\EcommerceApiTask\EcommerceApiTask.Model\obj\Debug\net8.0\EcommerceApiTask.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\EcommerceApiTask\EcommerceApiTask.Model\obj\Debug\net8.0\EcommerceApiTask.Model.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\EcommerceApiTask\EcommerceApiTask.Model\obj\Debug\net8.0\EcommerceApiTask.Model.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\EcommerceApiTask\EcommerceApiTask.Model\obj\Debug\net8.0\EcommerceApiTask.Model.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\EcommerceApiTask\EcommerceApiTask.Model\obj\Debug\net8.0\EcommerceApiTask.Model.sourcelink.json
+C:\Users\II Novbe\source\repos\EcommerceApiTask\EcommerceApiTask.Model\obj\Debug\net8.0\EcommerceApiTask.Model.dll
+C:\Users\II Novbe\source\repos\EcommerceApiTask\EcommerceApiTask.Model\obj\Debug\net8.0\refint\EcommerceApiTask.Model.dll
+C:\Users\II Novbe\source\repos\EcommerceApiTask\EcommerceApiTask.Model\obj\Debug\net8.0\EcommerceApiTask.Model.pdb
+C:\Users\II Novbe\source\repos\EcommerceApiTask\EcommerceApiTask.Model\obj\Debug\net8.0\ref\EcommerceApiTask.Model.dll

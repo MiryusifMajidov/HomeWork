@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "prQ0yMSYxy9pTVeQ7mtPNUMGohSHwESF2IWn7SFxmUA=",
+  "Source": "EcommerceApiTask.Api",
+  "BasePath": "_content/EcommerceApiTask.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
